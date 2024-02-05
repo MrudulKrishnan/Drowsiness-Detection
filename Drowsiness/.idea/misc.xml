@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Drowsiness/app/src/main/res/layout/activity_add_music.xml" value="0.4528301886792453" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Drowsiness/app/src/main/res/layout/activity_custom.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Drowsiness/app/src/main/res/layout/activity_cutsom2.xml" value="0.5" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Drowsiness/app/src/main/res/layout/activity_edit_music.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Drowsiness/app/src/main/res/layout/activity_feedback.xml" value="0.1984375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Drowsiness/app/src/main/res/layout/activity_home.xml" value="0.5" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Drowsiness/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Drowsiness/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Drowsiness/app/src/main/res/layout/activity_manage_music.xml" value="0.425" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Drowsiness/app/src/main/res/layout/activity_registration.xml" value="0.33" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Drowsiness/app/src/main/res/layout/activity_send_complaint.xml" value="0.33" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Drowsiness/app/src/main/res/layout/activity_send_complaints_view_reply.xml" value="0.425" />
+        <entry key="..\:/WORK/PROGRAM FILES/PROJECTS/Drowsiness RequirementAnalysis/Drowsiness/app/src/main/res/layout/activity_custom.xml" value="0.21829710144927536" />
+        <entry key="..\:/WORK/PROGRAM FILES/PROJECTS/Drowsiness RequirementAnalysis/Drowsiness/app/src/main/res/layout/activity_cutsom1.xml" value="0.33" />
+        <entry key="..\:/WORK/PROGRAM FILES/PROJECTS/Drowsiness RequirementAnalysis/Drowsiness/app/src/main/res/layout/activity_cutsom2.xml" value="0.21829710144927536" />
+        <entry key="..\:/WORK/PROGRAM FILES/PROJECTS/Drowsiness RequirementAnalysis/Drowsiness/app/src/main/res/layout/activity_edit_music.xml" value="0.5" />
+        <entry key="..\:/WORK/PROGRAM FILES/PROJECTS/Drowsiness RequirementAnalysis/Drowsiness/app/src/main/res/layout/activity_manage_music.xml" value="0.5" />
+        <entry key="..\:/WORK/PROGRAM FILES/PROJECTS/Drowsiness RequirementAnalysis/Drowsiness/app/src/main/res/layout/activity_send_complaints_view_reply.xml" value="0.21875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
